@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name": "ABC Corporation",
+    "identifier": "123456789",
+    "address": "123 Sample Avenue, Suite 400",
+    "city": "Metropolis",
+    "country": "Freedonia",
+    "postal_code": "10101"
+  },
+  "customer": {
+    "name": "XYZ Enterprises",
+    "address": "456 Example Road, Unit 202",
+    "city": "Anon City",
+    "country": "Nowhere Land",
+    "postal_code": "20202"
+  },
+  "items": [
+    {
+      "description": "Professional consulting services",
+      "quantity": 1,
+      "amount": 1000
+    }
+  ],
+  "due_by": "2025-12-31",
+  "subtotal": 1000,
+  "invoice_nr": 123
+}
